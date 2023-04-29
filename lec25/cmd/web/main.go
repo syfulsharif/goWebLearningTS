@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"helloTemplate/handlers"
+	"helloTemplate/pkg/handlers"
 	"net/http"
 )
 
