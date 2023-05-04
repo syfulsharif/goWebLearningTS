@@ -60,7 +60,7 @@ func createTemplateCache(t string) error {
 	if err != nil {
 		return err
 	}
-	// Add template to cache
+	// Add template to cache (Map)
 	tc[t] = tmpl
 
 	return nil
